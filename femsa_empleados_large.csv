@@ -1,0 +1,301 @@
+﻿id_empleado,fecha_contratacion,fecha_salida,estado
+1,02 de August de 2023,,Activo
+2,16 de August de 2020,08 de September de 2021,Inactivo
+3,21 de February de 2020,,Activo
+4,17 de July de 2021,14 de September de 2021,Inactivo
+5,16 de May de 2021,20 de June de 2023,Inactivo
+6,02 de April de 2021,,Activo
+7,12 de October de 2020,22 de January de 2021,Inactivo
+8,28 de July de 2020,,Activo
+9,17 de October de 2023,17 de October de 2023,Inactivo
+10,21 de January de 2023,26 de April de 2023,Inactivo
+11,27 de June de 2020,28 de October de 2023,Inactivo
+12,24 de April de 2023,13 de October de 2023,Inactivo
+13,14 de May de 2022,01 de July de 2023,Inactivo
+14,06 de March de 2020,16 de May de 2023,Inactivo
+15,02 de March de 2020,31 de May de 2023,Inactivo
+16,10 de July de 2020,24 de December de 2020,Inactivo
+17,23 de March de 2021,,Activo
+18,21 de April de 2021,,Activo
+19,31 de October de 2022,,Activo
+20,17 de May de 2023,05 de August de 2023,Inactivo
+21,24 de February de 2020,20 de August de 2021,Inactivo
+22,23 de February de 2023,,Activo
+23,11 de February de 2021,30 de December de 2022,Inactivo
+24,23 de August de 2023,,Activo
+25,21 de January de 2023,,Activo
+26,09 de May de 2022,,Activo
+27,27 de March de 2021,05 de April de 2021,Inactivo
+28,08 de July de 2022,,Activo
+29,21 de April de 2023,09 de May de 2023,Inactivo
+30,23 de July de 2021,23 de December de 2022,Inactivo
+31,14 de January de 2020,,Activo
+32,22 de November de 2020,06 de November de 2022,Inactivo
+33,15 de May de 2022,20 de January de 2023,Inactivo
+34,27 de November de 2021,,Activo
+35,23 de July de 2021,,Activo
+36,14 de November de 2020,30 de April de 2023,Inactivo
+37,16 de March de 2021,,Activo
+38,20 de November de 2021,04 de October de 2023,Inactivo
+39,28 de July de 2020,,Activo
+40,08 de July de 2020,09 de April de 2021,Inactivo
+41,17 de February de 2022,,Activo
+42,17 de July de 2020,21 de February de 2021,Inactivo
+43,05 de January de 2022,10 de October de 2022,Inactivo
+44,05 de December de 2021,,Activo
+45,21 de May de 2023,16 de August de 2023,Inactivo
+46,25 de June de 2021,29 de May de 2023,Inactivo
+47,29 de March de 2020,,Activo
+48,29 de July de 2022,,Activo
+49,03 de January de 2023,,Activo
+50,12 de September de 2020,20 de March de 2021,Inactivo
+51,14 de February de 2022,,Activo
+52,10 de June de 2020,,Activo
+53,04 de February de 2023,05 de February de 2023,Inactivo
+54,23 de August de 2021,,Activo
+55,11 de July de 2023,30 de September de 2023,Inactivo
+56,20 de June de 2023,,Activo
+57,10 de January de 2022,07 de April de 2023,Inactivo
+58,28 de March de 2023,,Activo
+59,28 de January de 2021,22 de May de 2021,Inactivo
+60,22 de May de 2020,23 de March de 2021,Inactivo
+61,03 de April de 2020,29 de April de 2022,Inactivo
+62,16 de September de 2023,13 de October de 2023,Inactivo
+63,11 de April de 2021,23 de May de 2021,Inactivo
+64,15 de August de 2021,,Activo
+65,12 de June de 2020,,Activo
+66,21 de April de 2021,28 de October de 2023,Inactivo
+67,25 de July de 2020,,Activo
+68,17 de February de 2022,30 de October de 2022,Inactivo
+69,23 de July de 2021,20 de July de 2022,Inactivo
+70,17 de July de 2022,,Activo
+71,25 de July de 2023,24 de August de 2023,Inactivo
+72,17 de January de 2022,17 de July de 2022,Inactivo
+73,29 de November de 2020,,Activo
+74,28 de January de 2022,30 de July de 2022,Inactivo
+75,28 de December de 2021,,Activo
+76,05 de March de 2021,,Activo
+77,04 de October de 2023,12 de October de 2023,Inactivo
+78,30 de June de 2021,14 de September de 2023,Inactivo
+79,20 de August de 2023,07 de October de 2023,Inactivo
+80,26 de May de 2020,14 de January de 2023,Inactivo
+81,01 de June de 2023,22 de July de 2023,Inactivo
+82,24 de July de 2023,,Activo
+83,16 de December de 2020,,Activo
+84,29 de December de 2022,,Activo
+85,16 de May de 2021,30 de December de 2021,Inactivo
+86,30 de November de 2020,30 de December de 2021,Inactivo
+87,04 de August de 2022,,Activo
+88,16 de February de 2022,,Activo
+89,06 de July de 2021,,Activo
+90,03 de August de 2023,07 de September de 2023,Inactivo
+91,14 de February de 2023,,Activo
+92,25 de March de 2021,,Activo
+93,26 de October de 2021,,Activo
+94,24 de April de 2020,16 de December de 2020,Inactivo
+95,14 de April de 2021,,Activo
+96,06 de March de 2020,08 de June de 2023,Inactivo
+97,08 de October de 2021,,Activo
+98,01 de April de 2022,21 de July de 2022,Inactivo
+99,02 de July de 2021,,Activo
+100,15 de May de 2020,,Activo
+101,08 de March de 2021,,Activo
+102,07 de March de 2023,,Activo
+103,06 de October de 2021,04 de November de 2022,Inactivo
+104,11 de March de 2021,26 de November de 2021,Inactivo
+105,04 de September de 2023,19 de October de 2023,Inactivo
+106,19 de October de 2022,,Activo
+107,21 de March de 2022,04 de September de 2023,Inactivo
+108,09 de August de 2023,24 de September de 2023,Inactivo
+109,28 de July de 2022,,Activo
+110,19 de October de 2020,26 de August de 2022,Inactivo
+111,26 de June de 2021,,Activo
+112,12 de October de 2020,19 de June de 2022,Inactivo
+113,20 de May de 2021,,Activo
+114,23 de February de 2023,,Activo
+115,08 de January de 2023,,Activo
+116,22 de June de 2021,,Activo
+117,12 de April de 2023,,Activo
+118,27 de May de 2022,09 de December de 2022,Inactivo
+119,10 de April de 2023,,Activo
+120,28 de March de 2022,,Activo
+121,11 de January de 2022,03 de October de 2023,Inactivo
+122,25 de March de 2021,,Activo
+123,10 de October de 2020,,Activo
+124,09 de November de 2022,13 de April de 2023,Inactivo
+125,07 de October de 2022,,Activo
+126,05 de July de 2020,02 de December de 2022,Inactivo
+127,06 de April de 2020,,Activo
+128,12 de August de 2020,,Activo
+129,09 de November de 2020,,Activo
+130,09 de July de 2023,,Activo
+131,23 de November de 2020,05 de October de 2023,Inactivo
+132,25 de October de 2023,,Activo
+133,14 de May de 2022,08 de August de 2022,Inactivo
+134,06 de May de 2023,,Activo
+135,10 de May de 2020,,Activo
+136,27 de February de 2022,25 de October de 2022,Inactivo
+137,20 de February de 2022,,Activo
+138,05 de May de 2023,24 de June de 2023,Inactivo
+139,16 de August de 2022,28 de August de 2022,Inactivo
+140,19 de December de 2022,23 de April de 2023,Inactivo
+141,29 de May de 2021,,Activo
+142,07 de February de 2023,28 de September de 2023,Inactivo
+143,24 de January de 2020,,Activo
+144,25 de October de 2023,30 de October de 2023,Inactivo
+145,22 de August de 2020,,Activo
+146,28 de October de 2023,,Activo
+147,04 de January de 2023,,Activo
+148,30 de June de 2021,28 de November de 2021,Inactivo
+149,05 de August de 2023,18 de August de 2023,Inactivo
+150,27 de November de 2021,,Activo
+151,16 de August de 2020,11 de August de 2021,Inactivo
+152,24 de August de 2021,,Activo
+153,09 de June de 2022,21 de March de 2023,Inactivo
+154,19 de November de 2020,25 de July de 2021,Inactivo
+155,18 de July de 2022,,Activo
+156,07 de January de 2020,15 de August de 2022,Inactivo
+157,23 de June de 2021,,Activo
+158,22 de October de 2022,,Activo
+159,31 de December de 2020,,Activo
+160,05 de November de 2022,,Activo
+161,05 de August de 2020,04 de April de 2023,Inactivo
+162,04 de July de 2023,,Activo
+163,03 de September de 2021,,Activo
+164,01 de August de 2023,21 de October de 2023,Inactivo
+165,05 de November de 2022,,Activo
+166,01 de June de 2023,,Activo
+167,11 de February de 2021,19 de November de 2021,Inactivo
+168,09 de November de 2020,,Activo
+169,04 de February de 2022,23 de November de 2022,Inactivo
+170,26 de November de 2020,05 de June de 2022,Inactivo
+171,09 de January de 2023,,Activo
+172,22 de December de 2022,,Activo
+173,02 de January de 2020,11 de October de 2020,Inactivo
+174,11 de May de 2023,09 de July de 2023,Inactivo
+175,25 de October de 2021,,Activo
+176,27 de September de 2022,23 de September de 2023,Inactivo
+177,09 de February de 2020,19 de June de 2020,Inactivo
+178,17 de August de 2020,,Activo
+179,13 de January de 2022,,Activo
+180,21 de September de 2021,,Activo
+181,05 de May de 2021,,Activo
+182,28 de April de 2020,,Activo
+183,08 de May de 2021,05 de December de 2021,Inactivo
+184,07 de March de 2023,,Activo
+185,10 de June de 2020,,Activo
+186,24 de June de 2020,16 de September de 2023,Inactivo
+187,22 de September de 2022,,Activo
+188,21 de May de 2020,,Activo
+189,26 de December de 2022,24 de June de 2023,Inactivo
+190,14 de September de 2020,,Activo
+191,19 de September de 2020,,Activo
+192,13 de September de 2023,,Activo
+193,31 de August de 2022,07 de May de 2023,Inactivo
+194,30 de January de 2023,18 de June de 2023,Inactivo
+195,04 de December de 2020,,Activo
+196,26 de June de 2021,,Activo
+197,16 de December de 2022,03 de July de 2023,Inactivo
+198,27 de May de 2023,,Activo
+199,16 de May de 2022,,Activo
+200,09 de March de 2021,17 de July de 2023,Inactivo
+201,09 de January de 2023,,Activo
+202,15 de February de 2021,14 de November de 2022,Inactivo
+203,30 de September de 2021,07 de November de 2022,Inactivo
+204,28 de March de 2022,21 de June de 2022,Inactivo
+205,07 de October de 2023,,Activo
+206,23 de August de 2023,21 de October de 2023,Inactivo
+207,03 de February de 2022,26 de March de 2022,Inactivo
+208,16 de June de 2022,,Activo
+209,25 de November de 2022,,Activo
+210,13 de July de 2022,,Activo
+211,04 de September de 2020,24 de March de 2023,Inactivo
+212,22 de May de 2021,,Activo
+213,05 de April de 2021,,Activo
+214,11 de May de 2020,,Activo
+215,23 de November de 2021,,Activo
+216,13 de February de 2020,,Activo
+217,19 de April de 2023,,Activo
+218,08 de February de 2023,06 de October de 2023,Inactivo
+219,16 de April de 2021,23 de May de 2023,Inactivo
+220,20 de April de 2023,18 de July de 2023,Inactivo
+221,27 de March de 2021,21 de January de 2023,Inactivo
+222,15 de January de 2020,10 de September de 2023,Inactivo
+223,25 de May de 2020,27 de July de 2020,Inactivo
+224,16 de July de 2023,10 de August de 2023,Inactivo
+225,30 de April de 2020,24 de October de 2023,Inactivo
+226,13 de April de 2021,13 de December de 2021,Inactivo
+227,18 de May de 2020,12 de January de 2023,Inactivo
+228,05 de March de 2020,04 de May de 2023,Inactivo
+229,07 de November de 2021,26 de February de 2023,Inactivo
+230,25 de May de 2020,,Activo
+231,18 de November de 2022,,Activo
+232,02 de May de 2021,12 de January de 2023,Inactivo
+233,24 de July de 2021,28 de September de 2023,Inactivo
+234,02 de October de 2023,11 de October de 2023,Inactivo
+235,21 de September de 2022,14 de July de 2023,Inactivo
+236,14 de March de 2021,21 de October de 2023,Inactivo
+237,09 de January de 2023,,Activo
+238,27 de September de 2020,,Activo
+239,15 de March de 2023,,Activo
+240,26 de March de 2023,14 de April de 2023,Inactivo
+241,26 de August de 2022,17 de October de 2022,Inactivo
+242,12 de May de 2021,,Activo
+243,26 de August de 2022,07 de October de 2023,Inactivo
+244,13 de April de 2022,03 de April de 2023,Inactivo
+245,24 de January de 2021,,Activo
+246,12 de July de 2020,,Activo
+247,17 de July de 2020,19 de May de 2023,Inactivo
+248,11 de September de 2023,,Activo
+249,01 de June de 2022,05 de August de 2023,Inactivo
+250,26 de December de 2021,,Activo
+251,17 de May de 2022,03 de August de 2023,Inactivo
+252,21 de April de 2022,,Activo
+253,14 de August de 2022,,Activo
+254,20 de April de 2020,28 de September de 2022,Inactivo
+255,11 de October de 2023,27 de October de 2023,Inactivo
+256,31 de August de 2023,,Activo
+257,16 de August de 2023,,Activo
+258,20 de July de 2020,,Activo
+259,04 de May de 2020,,Activo
+260,04 de April de 2022,,Activo
+261,25 de November de 2021,,Activo
+262,11 de August de 2020,04 de February de 2021,Inactivo
+263,24 de May de 2021,,Activo
+264,27 de January de 2021,,Activo
+265,24 de January de 2021,03 de March de 2023,Inactivo
+266,03 de January de 2023,,Activo
+267,07 de July de 2022,,Activo
+268,14 de October de 2020,,Activo
+269,14 de May de 2022,02 de October de 2023,Inactivo
+270,10 de January de 2021,,Activo
+271,24 de July de 2021,05 de December de 2022,Inactivo
+272,05 de August de 2022,02 de February de 2023,Inactivo
+273,26 de May de 2021,,Activo
+274,03 de June de 2020,,Activo
+275,26 de June de 2022,,Activo
+276,01 de February de 2023,,Activo
+277,19 de July de 2020,12 de June de 2023,Inactivo
+278,13 de April de 2020,05 de October de 2020,Inactivo
+279,28 de August de 2023,19 de October de 2023,Inactivo
+280,12 de January de 2023,,Activo
+281,31 de January de 2020,02 de October de 2022,Inactivo
+282,10 de July de 2020,,Activo
+283,29 de April de 2021,,Activo
+284,06 de December de 2020,14 de June de 2021,Inactivo
+285,12 de April de 2022,,Activo
+286,21 de September de 2022,16 de April de 2023,Inactivo
+287,12 de September de 2022,15 de February de 2023,Inactivo
+288,13 de March de 2021,,Activo
+289,01 de April de 2022,,Activo
+290,30 de April de 2020,,Activo
+291,03 de December de 2020,,Activo
+292,15 de February de 2022,,Activo
+293,05 de January de 2020,,Activo
+294,10 de March de 2022,,Activo
+295,27 de June de 2021,,Activo
+296,20 de July de 2022,,Activo
+297,07 de August de 2021,,Activo
+298,16 de May de 2022,16 de September de 2022,Inactivo
+299,12 de February de 2023,23 de July de 2023,Inactivo
+300,17 de September de 2023,21 de October de 2023,Inactivo
